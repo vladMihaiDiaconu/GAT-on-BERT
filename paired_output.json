@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 1,
+    "source_filename": "Amazon",
+    "matched_elementary_filename": "Amazon",
+    "matched_advanced_filename": "Amazon",
+    "elementary_similarity": 0.9324106221800132,
+    "advanced_similarity": 0.900404687963474
+  },
+  {
+    "id": 2,
+    "source_filename": "Amsterdam",
+    "matched_elementary_filename": "Amsterdam",
+    "matched_advanced_filename": "Amsterdam",
+    "elementary_similarity": 0.9472571228046096,
+    "advanced_similarity": 0.881426268842342
+  },
+  {
+    "id": 3,
+    "source_filename": "Anita",
+    "matched_elementary_filename": "Anita",
+    "matched_advanced_filename": "Anita",
+    "elementary_similarity": 0.9622433535401964,
+    "advanced_similarity": 0.7618980379592217
+  },
+  {
+    "id": 4,
+    "source_filename": "Arctic mapping",
+    "matched_elementary_filename": "Arctic mapping",
+    "matched_advanced_filename": "Arctic mapping",
+    "elementary_similarity": 0.9805464765640846,
+    "advanced_similarity": 0.924273427854851
+  },
+  {
+    "id": 5,
+    "source_filename": "Banksy",
+    "matched_elementary_filename": "Banksy",
+    "matched_advanced_filename": "Banksy",
+    "elementary_similarity": 0.9526514473961696,
+    "advanced_similarity": 0.881762682800623
+  },
+  {
+    "id": 6,
+    "source_filename": "Billionaires",
+    "matched_elementary_filename": "Billionaires",
+    "matched_advanced_filename": "Billionaires",
+    "elementary_similarity": 0.7348545817566217,
+    "advanced_similarity": 0.7067695173183075
+  },
+  {
+    "id": 7,
+    "source_filename": "Blackberry",
+    "matched_elementary_filename": "Blackberry",
+    "matched_advanced_filename": "Blackberry",
+    "elementary_similarity": 0.9373657488668302,
+    "advanced_similarity": 0.8308823423263751
+  },
+  {
+    "id": 8,
+    "source_filename": "Bolivia",
+    "matched_elementary_filename": "Bolivia",
+    "matched_advanced_filename": "Bolivia",
+    "elementary_similarity": 0.9433510535485786,
+    "advanced_similarity": 0.8975999172796715
+  },
+  {
+    "id": 9,
+    "source_filename": "Bonus pay",
+    "matched_elementary_filename": "Bonus pay",
+    "matched_advanced_filename": "Bonus pay",
+    "elementary_similarity": 0.954655644547205,
+    "advanced_similarity": 0.906640383171392
+  },
+  {
+    "id": 10,
+    "source_filename": "Brazil",
+    "matched_elementary_filename": "WNL Extreme heat",
+    "matched_advanced_filename": "Brazil",
+    "elementary_similarity": 0.6311852416139508,
+    "advanced_similarity": 0.5918129676568765
+  },
+  {
+    "id": 11,
+    "source_filename": "Cigarettes",
+    "matched_elementary_filename": "Cigarettes",
+    "matched_advanced_filename": "Cigarettes",
+    "elementary_similarity": 0.9078814063325349,
+    "advanced_similarity": 0.8435958100586731
+  },
+  {
+    "id": 12,
+    "source_filename": "climate change ",
+    "matched_elementary_filename": "climate change ",
+    "matched_advanced_filename": "climate change ",
+    "elementary_similarity": 0.9444333886706131,
+    "advanced_similarity": 0.8898020700198114
+  },
+  {
+    "id": 13,
+    "source_filename": "Coal to challenge oil",
+    "matched_elementary_filename": "Coal to challenge oil",
+    "matched_advanced_filename": "Coal to challenge oil",
+    "elementary_similarity": 0.9523849083420994,
+    "advanced_similarity": 0.8525457563944152
+  },
+  {
+    "id": 14,
+    "source_filename": "Copyright",
+    "matched_elementary_filename": "Copyright",
+    "matched_advanced_filename": "Copyright",
+    "elementary_similarity": 0.9600920949775337,
+    "advanced_similarity": 0.9432191566134084
+  },
+  {
+    "id": 15,
+    "source_filename": "Crowdfunding",
+    "matched_elementary_filename": "Crowdfunding",
+    "matched_advanced_filename": "Crowdfunding",
+    "elementary_similarity": 0.926676215451461,
+    "advanced_similarity": 0.8304037152823135
+  },
+  {
+    "id": 16,
+    "source_filename": "Denmark",
+    "matched_elementary_filename": "Life expectancy",
+    "matched_advanced_filename": "Life expectancy",
+    "elementary_similarity": 0.6297495062952347,
+    "advanced_similarity": 0.655020133533375
+  },
+  {
+    "id": 17,
+    "source_filename": "Everest",
+    "matched_elementary_filename": "WNL Changing India",
+    "matched_advanced_filename": "WNL Changing India",
+    "elementary_similarity": 0.5152148837726531,
+    "advanced_similarity": 0.5379427599976437
+  },
+  {
+    "id": 18,
+    "source_filename": "Exercise",
+    "matched_elementary_filename": "Exercise",
+    "matched_advanced_filename": "Exercise",
+    "elementary_similarity": 0.943893716510724,
+    "advanced_similarity": 0.8930497635116028
+  },
+  {
+    "id": 19,
+    "source_filename": "Facebook deserted by millions of users",
+    "matched_elementary_filename": "WNL The millenials",
+    "matched_advanced_filename": "Facebook deserted by millions of users",
+    "elementary_similarity": 0.6868220376343286,
+    "advanced_similarity": 0.6744007058732178
+  },
+  {
+    "id": 20,
+    "source_filename": "False memory",
+    "matched_elementary_filename": "Rats",
+    "matched_advanced_filename": "Rats",
+    "elementary_similarity": 0.7007945063891234,
+    "advanced_similarity": 0.6799068058931907
+  },
+  {
+    "id": 21,
+    "source_filename": "Ferguson",
+    "matched_elementary_filename": "Ferguson",
+    "matched_advanced_filename": "Ferguson",
+    "elementary_similarity": 0.9405158607741707,
+    "advanced_similarity": 0.8563376509956715
+  },
+  {
+    "id": 22,
+    "source_filename": "Fitness",
+    "matched_elementary_filename": "Fitness",
+    "matched_advanced_filename": "Fitness",
+    "elementary_similarity": 0.9182832642344768,
+    "advanced_similarity": 0.8249958496594526
+  },
+  {
+    "id": 23,
+    "source_filename": "Food shortages",
+    "matched_elementary_filename": "Food shortages",
+    "matched_advanced_filename": "Food shortages",
+    "elementary_similarity": 0.914984841294819,
+    "advanced_similarity": 0.8701703106987684
+  },
+  {
+    "id": 24,
+    "source_filename": "Gangs",
+    "matched_elementary_filename": "Gangs",
+    "matched_advanced_filename": "Gangs",
+    "elementary_similarity": 0.9499027684341749,
+    "advanced_similarity": 0.8246439027103711
+  },
+  {
+    "id": 25,
+    "source_filename": "Gorillas and oil",
+    "matched_elementary_filename": "WNL Extinction",
+    "matched_advanced_filename": "WNL Extinction",
+    "elementary_similarity": 0.585400569665601,
+    "advanced_similarity": 0.5687715242809142
+  },
+  {
+    "id": 26,
+    "source_filename": "Greeks and drugs",
+    "matched_elementary_filename": "Greeks and drugs",
+    "matched_advanced_filename": "Greeks and drugs",
+    "elementary_similarity": 0.9523618445080506,
+    "advanced_similarity": 0.8873120309637785
+  },
+  {
+    "id": 27,
+    "source_filename": "Hillsborough",
+    "matched_elementary_filename": "Hillsborough",
+    "matched_advanced_filename": "Hillsborough",
+    "elementary_similarity": 0.9452699907387996,
+    "advanced_similarity": 0.8570098215571129
+  },
+  {
+    "id": 28,
+    "source_filename": "Insects",
+    "matched_elementary_filename": "Insects",
+    "matched_advanced_filename": "Insects",
+    "elementary_similarity": 0.8909181360656413,
+    "advanced_similarity": 0.8158520230290057
+  },
+  {
+    "id": 29,
+    "source_filename": "Japan menu",
+    "matched_elementary_filename": "Japan menu",
+    "matched_advanced_filename": "Japan menu",
+    "elementary_similarity": 0.9282652854316993,
+    "advanced_similarity": 0.8332061381437597
+  },
+  {
+    "id": 30,
+    "source_filename": "Japan",
+    "matched_elementary_filename": "Japan",
+    "matched_advanced_filename": "Japan",
+    "elementary_similarity": 0.9550974662476983,
+    "advanced_similarity": 0.8366528765402845
+  },
+  {
+    "id": 31,
+    "source_filename": "Kashmir",
+    "matched_elementary_filename": "Kashmir",
+    "matched_advanced_filename": "Kashmir",
+    "elementary_similarity": 0.5820432943962086,
+    "advanced_similarity": 0.6001001613621666
+  },
+  {
+    "id": 32,
+    "source_filename": "Kate and William",
+    "matched_elementary_filename": "Kate and William",
+    "matched_advanced_filename": "Kate and William",
+    "elementary_similarity": 0.9407980580583802,
+    "advanced_similarity": 0.854622001650192
+  },
+  {
+    "id": 33,
+    "source_filename": "Kenya",
+    "matched_elementary_filename": "Kenya",
+    "matched_advanced_filename": "Kenya",
+    "elementary_similarity": 0.9529650766998532,
+    "advanced_similarity": 0.8198378691391861
+  },
+  {
+    "id": 34,
+    "source_filename": "Liberia",
+    "matched_elementary_filename": "Liberia",
+    "matched_advanced_filename": "Liberia",
+    "elementary_similarity": 0.9100941583056825,
+    "advanced_similarity": 0.8889855733534521
+  },
+  {
+    "id": 35,
+    "source_filename": "Lie detector",
+    "matched_elementary_filename": "Lie detector",
+    "matched_advanced_filename": "Lie detector",
+    "elementary_similarity": 0.9231156384429635,
+    "advanced_similarity": 0.8356105942759705
+  },
+  {
+    "id": 36,
+    "source_filename": "Life expectancy",
+    "matched_elementary_filename": "Life expectancy",
+    "matched_advanced_filename": "Life expectancy",
+    "elementary_similarity": 0.9112211811578391,
+    "advanced_similarity": 0.8783413197819382
+  },
+  {
+    "id": 37,
+    "source_filename": "Life on Mars",
+    "matched_elementary_filename": "Life on Mars",
+    "matched_advanced_filename": "Life on Mars",
+    "elementary_similarity": 0.9369506621649768,
+    "advanced_similarity": 0.7287413102013405
+  },
+  {
+    "id": 38,
+    "source_filename": "Loterry",
+    "matched_elementary_filename": "Loterry",
+    "matched_advanced_filename": "Loterry",
+    "elementary_similarity": 0.9374341299659174,
+    "advanced_similarity": 0.8651305236581713
+  },
+  {
+    "id": 39,
+    "source_filename": "Malala",
+    "matched_elementary_filename": "Malala",
+    "matched_advanced_filename": "Malala",
+    "elementary_similarity": 0.9401611757312001,
+    "advanced_similarity": 0.9023750615498376
+  },
+  {
+    "id": 40,
+    "source_filename": "Meteorite",
+    "matched_elementary_filename": "Meteorite",
+    "matched_advanced_filename": "Meteorite",
+    "elementary_similarity": 0.9478544284060471,
+    "advanced_similarity": 0.8850801641398234
+  },
+  {
+    "id": 41,
+    "source_filename": "Midlife crisis",
+    "matched_elementary_filename": "Midlife crisis",
+    "matched_advanced_filename": "Midlife crisis",
+    "elementary_similarity": 0.9177035537510385,
+    "advanced_similarity": 0.8173016357120578
+  },
+  {
+    "id": 42,
+    "source_filename": "Murderers beware",
+    "matched_elementary_filename": "Murderers beware",
+    "matched_advanced_filename": "Murderers beware",
+    "elementary_similarity": 0.9452791848720249,
+    "advanced_similarity": 0.8921051036395158
+  },
+  {
+    "id": 43,
+    "source_filename": "Nelson Mandela",
+    "matched_elementary_filename": "Malala",
+    "matched_advanced_filename": "Malala",
+    "elementary_similarity": 0.616917300279731,
+    "advanced_similarity": 0.6084918684259479
+  },
+  {
+    "id": 44,
+    "source_filename": "Nepal",
+    "matched_elementary_filename": "Nepal",
+    "matched_advanced_filename": "Nepal",
+    "elementary_similarity": 0.9534132428889215,
+    "advanced_similarity": 0.9328058871132924
+  },
+  {
+    "id": 45,
+    "source_filename": "Norwegian sun",
+    "matched_elementary_filename": "Norwegian sun",
+    "matched_advanced_filename": "Norwegian sun",
+    "elementary_similarity": 0.9387408759839502,
+    "advanced_similarity": 0.9076648365681955
+  },
+  {
+    "id": 46,
+    "source_filename": "NSA 2",
+    "matched_elementary_filename": "WNL Basic phone logs",
+    "matched_advanced_filename": "WNL Basic phone logs",
+    "elementary_similarity": 0.7340261033200595,
+    "advanced_similarity": 0.7170176175273018
+  },
+  {
+    "id": 47,
+    "source_filename": "NSA scandal",
+    "matched_elementary_filename": "NSA scandal",
+    "matched_advanced_filename": "NSA scandal",
+    "elementary_similarity": 0.9161742956768013,
+    "advanced_similarity": 0.8796930434682014
+  },
+  {
+    "id": 48,
+    "source_filename": "Obama",
+    "matched_elementary_filename": "Obama",
+    "matched_advanced_filename": "Obama",
+    "elementary_similarity": 0.9371359044492111,
+    "advanced_similarity": 0.7966756577361775
+  },
+  {
+    "id": 49,
+    "source_filename": "Old age",
+    "matched_elementary_filename": "Old age",
+    "matched_advanced_filename": "Old age",
+    "elementary_similarity": 0.9142098393261595,
+    "advanced_similarity": 0.8541674212070474
+  },
+  {
+    "id": 50,
+    "source_filename": "Organs",
+    "matched_elementary_filename": "Organs",
+    "matched_advanced_filename": "Organs",
+    "elementary_similarity": 0.9386548200190548,
+    "advanced_similarity": 0.8635737010388065
+  },
+  {
+    "id": 51,
+    "source_filename": "Pope",
+    "matched_elementary_filename": "Pope",
+    "matched_advanced_filename": "Pope",
+    "elementary_similarity": 0.9363469762918386,
+    "advanced_similarity": 0.8167032554155287
+  },
+  {
+    "id": 52,
+    "source_filename": "Prince Harry",
+    "matched_elementary_filename": "Malala",
+    "matched_advanced_filename": "Malala",
+    "elementary_similarity": 0.5388641349124184,
+    "advanced_similarity": 0.5536074846545068
+  },
+  {
+    "id": 53,
+    "source_filename": "Rats",
+    "matched_elementary_filename": "Rats",
+    "matched_advanced_filename": "Rats",
+    "elementary_similarity": 0.9154592625300186,
+    "advanced_similarity": 0.8717931804786648
+  },
+  {
+    "id": 54,
+    "source_filename": "Richard III",
+    "matched_elementary_filename": "Richard III",
+    "matched_advanced_filename": "Richard III",
+    "elementary_similarity": 0.9539606509342844,
+    "advanced_similarity": 0.7378235308859593
+  },
+  {
+    "id": 55,
+    "source_filename": "Royal Baby",
+    "matched_elementary_filename": "Royal Baby",
+    "matched_advanced_filename": "Skydiver",
+    "elementary_similarity": 0.9747368384343563,
+    "advanced_similarity": 0.9052652365192455
+  },
+  {
+    "id": 56,
+    "source_filename": "Skydiver",
+    "matched_elementary_filename": "Royal Baby",
+    "matched_advanced_filename": "Skydiver",
+    "elementary_similarity": 0.7986515351006712,
+    "advanced_similarity": 0.7475988879632367
+  },
+  {
+    "id": 57,
+    "source_filename": "Spain",
+    "matched_elementary_filename": "Spain",
+    "matched_advanced_filename": "Spain",
+    "elementary_similarity": 0.9153405350458246,
+    "advanced_similarity": 0.8957523881965076
+  },
+  {
+    "id": 58,
+    "source_filename": "Starbucks",
+    "matched_elementary_filename": "Starbucks",
+    "matched_advanced_filename": "Starbucks",
+    "elementary_similarity": 0.9307785710821141,
+    "advanced_similarity": 0.8086242574296854
+  },
+  {
+    "id": 59,
+    "source_filename": "Superbugs",
+    "matched_elementary_filename": "Superbugs",
+    "matched_advanced_filename": "Superbugs",
+    "elementary_similarity": 0.9379146993867618,
+    "advanced_similarity": 0.8751958636377296
+  },
+  {
+    "id": 60,
+    "source_filename": "Swedish prisons",
+    "matched_elementary_filename": "Swedish prisons",
+    "matched_advanced_filename": "Swedish prisons",
+    "elementary_similarity": 0.9503763303605797,
+    "advanced_similarity": 0.9217667520456454
+  },
+  {
+    "id": 61,
+    "source_filename": "Syria",
+    "matched_elementary_filename": "Kashmir",
+    "matched_advanced_filename": "WNL Calais Migrants",
+    "elementary_similarity": 0.5098992557208464,
+    "advanced_similarity": 0.47125141411444915
+  },
+  {
+    "id": 62,
+    "source_filename": "Teff",
+    "matched_elementary_filename": "Teff",
+    "matched_advanced_filename": "Teff",
+    "elementary_similarity": 0.9517157897924353,
+    "advanced_similarity": 0.8987856002721251
+  },
+  {
+    "id": 63,
+    "source_filename": "Thatcher",
+    "matched_elementary_filename": "Thatcher",
+    "matched_advanced_filename": "Thatcher",
+    "elementary_similarity": 0.9403215882262856,
+    "advanced_similarity": 0.8703703068121599
+  },
+  {
+    "id": 64,
+    "source_filename": "US shutdown",
+    "matched_elementary_filename": "US shutdown",
+    "matched_advanced_filename": "US shutdown",
+    "elementary_similarity": 0.9463560386969696,
+    "advanced_similarity": 0.7976899731430458
+  },
+  {
+    "id": 65,
+    "source_filename": "Violence",
+    "matched_elementary_filename": "Violence",
+    "matched_advanced_filename": "Violence",
+    "elementary_similarity": 0.9259780015173436,
+    "advanced_similarity": 0.8710695924863676
+  },
+  {
+    "id": 66,
+    "source_filename": "WNL 101 year old bottle message",
+    "matched_elementary_filename": "WNL Castaway",
+    "matched_advanced_filename": "WNL 101 year old bottle message",
+    "elementary_similarity": 0.5982900224344324,
+    "advanced_similarity": 0.5489816036158004
+  },
+  {
+    "id": 67,
+    "source_filename": "WNL A good night sleep",
+    "matched_elementary_filename": "WNL Why you should start work at 10",
+    "matched_advanced_filename": "WNL Why you should start work at 10",
+    "elementary_similarity": 0.6501642075540809,
+    "advanced_similarity": 0.6393460386889265
+  },
+  {
+    "id": 68,
+    "source_filename": "WNL Apple",
+    "matched_elementary_filename": "WNL What does Apple",
+    "matched_advanced_filename": "WNL What does Apple",
+    "elementary_similarity": 0.6750750530276932,
+    "advanced_similarity": 0.6403844743227274
+  },
+  {
+    "id": 69,
+    "source_filename": "WNL Arctic Ramadan",
+    "matched_elementary_filename": "Arctic mapping",
+    "matched_advanced_filename": "Arctic mapping",
+    "elementary_similarity": 0.9773443087745294,
+    "advanced_similarity": 0.920597065644252
+  },
+  {
+    "id": 70,
+    "source_filename": "WNL Are MOOCs the future",
+    "matched_elementary_filename": "WNL Icebucket challenge",
+    "matched_advanced_filename": "WNL Icebucket challenge",
+    "elementary_similarity": 0.5208260953259641,
+    "advanced_similarity": 0.47621618836052876
+  },
+  {
+    "id": 71,
+    "source_filename": "WNL are you a bad boyfriend",
+    "matched_elementary_filename": "WNL are you a bad boyfriend",
+    "matched_advanced_filename": "WNL are you a bad boyfriend",
+    "elementary_similarity": 0.9282563162675053,
+    "advanced_similarity": 0.8635173249645086
+  },
+  {
+    "id": 72,
+    "source_filename": "WNL Bangladesh factory owners",
+    "matched_elementary_filename": "WNL Bangladesh factory owners",
+    "matched_advanced_filename": "WNL Bangladesh factory owners",
+    "elementary_similarity": 0.9524765857334034,
+    "advanced_similarity": 0.9148516204130385
+  },
+  {
+    "id": 73,
+    "source_filename": "WNL Bangladeshi organization",
+    "matched_elementary_filename": "WNL Bangladeshi organization",
+    "matched_advanced_filename": "WNL Bangladeshi organization",
+    "elementary_similarity": 0.9404937805435586,
+    "advanced_similarity": 0.8314236168764788
+  },
+  {
+    "id": 74,
+    "source_filename": "WNL Barack Obama",
+    "matched_elementary_filename": "WNL Barack Obama",
+    "matched_advanced_filename": "WNL Barack Obama",
+    "elementary_similarity": 0.9366153715180753,
+    "advanced_similarity": 0.8685059620922834
+  },
+  {
+    "id": 75,
+    "source_filename": "WNL Basic phone logs",
+    "matched_elementary_filename": "WNL Basic phone logs",
+    "matched_advanced_filename": "WNL Basic phone logs",
+    "elementary_similarity": 0.9272810928952605,
+    "advanced_similarity": 0.8239035195823561
+  },
+  {
+    "id": 76,
+    "source_filename": "WNL Billionaires",
+    "matched_elementary_filename": "WNL Billionaires",
+    "matched_advanced_filename": "WNL Billionaires",
+    "elementary_similarity": 0.9394322213871151,
+    "advanced_similarity": 0.8790722754546307
+  },
+  {
+    "id": 77,
+    "source_filename": "WNL Black Friday",
+    "matched_elementary_filename": "WNL Black Friday",
+    "matched_advanced_filename": "WNL Black Friday",
+    "elementary_similarity": 0.6184467997042553,
+    "advanced_similarity": 0.6504823991669639
+  },
+  {
+    "id": 78,
+    "source_filename": "WNL Bogus Allergy",
+    "matched_elementary_filename": "WNL Bogus Allergy",
+    "matched_advanced_filename": "WNL Bogus Allergy",
+    "elementary_similarity": 0.900687137612029,
+    "advanced_similarity": 0.7635528439571435
+  },
+  {
+    "id": 79,
+    "source_filename": "WNL Bright Future",
+    "matched_elementary_filename": "Arctic mapping",
+    "matched_advanced_filename": "Arctic mapping",
+    "elementary_similarity": 0.55657540312869,
+    "advanced_similarity": 0.5663286469063502
+  },
+  {
+    "id": 80,
+    "source_filename": "WNL Brown bears",
+    "matched_elementary_filename": "WNL Brown bears",
+    "matched_advanced_filename": "WNL Brown bears",
+    "elementary_similarity": 0.9496554301956344,
+    "advanced_similarity": 0.9008092152199484
+  },
+  {
+    "id": 81,
+    "source_filename": "WNL Calais Migrants",
+    "matched_elementary_filename": "WNL Calais Migrants",
+    "matched_advanced_filename": "WNL Calais Migrants",
+    "elementary_similarity": 0.920738020905475,
+    "advanced_similarity": 0.8228998689032934
+  },
+  {
+    "id": 82,
+    "source_filename": "WNL Can the US",
+    "matched_elementary_filename": "WNL Can the US",
+    "matched_advanced_filename": "WNL Can the US",
+    "elementary_similarity": 0.9496211423077948,
+    "advanced_similarity": 0.9158083483504913
+  },
+  {
+    "id": 83,
+    "source_filename": "WNL Canadian Pair",
+    "matched_elementary_filename": "WNL Canadian Pair",
+    "matched_advanced_filename": "WNL Canadian Pair",
+    "elementary_similarity": 0.9466678676397217,
+    "advanced_similarity": 0.8762509505750331
+  },
+  {
+    "id": 84,
+    "source_filename": "WNL Castaway",
+    "matched_elementary_filename": "WNL Castaway",
+    "matched_advanced_filename": "WNL Castaway",
+    "elementary_similarity": 0.916633313409332,
+    "advanced_similarity": 0.7276508300266242
+  },
+  {
+    "id": 85,
+    "source_filename": "WNL Changing India",
+    "matched_elementary_filename": "WNL Changing India",
+    "matched_advanced_filename": "WNL Changing India",
+    "elementary_similarity": 0.941024882364569,
+    "advanced_similarity": 0.8980619235389358
+  },
+  {
+    "id": 86,
+    "source_filename": "WNL Coloring Books",
+    "matched_elementary_filename": "WNL Coloring Books",
+    "matched_advanced_filename": "WNL Coloring Books",
+    "elementary_similarity": 0.9506511439750707,
+    "advanced_similarity": 0.8147199780474443
+  },
+  {
+    "id": 87,
+    "source_filename": "WNL Criminal Links",
+    "matched_elementary_filename": "WNL Criminal Links",
+    "matched_advanced_filename": "WNL Criminal Links",
+    "elementary_similarity": 0.9391524820131649,
+    "advanced_similarity": 0.7720167143134608
+  },
+  {
+    "id": 88,
+    "source_filename": "WNL Cuba",
+    "matched_elementary_filename": "WNL Cuba",
+    "matched_advanced_filename": "WNL Cuba",
+    "elementary_similarity": 0.9449381873596382,
+    "advanced_similarity": 0.8719249166488829
+  },
+  {
+    "id": 89,
+    "source_filename": "WNL David Bowie",
+    "matched_elementary_filename": "WNL David Bowie",
+    "matched_advanced_filename": "WNL David Bowie",
+    "elementary_similarity": 0.9663767434534931,
+    "advanced_similarity": 0.7908037071701944
+  },
+  {
+    "id": 90,
+    "source_filename": "WNL David Mitchell",
+    "matched_elementary_filename": "WNL David Mitchell",
+    "matched_advanced_filename": "WNL David Mitchell",
+    "elementary_similarity": 0.9386497302472433,
+    "advanced_similarity": 0.8441086754632463
+  },
+  {
+    "id": 91,
+    "source_filename": "WNL Drowning in rubbish",
+    "matched_elementary_filename": "WNL Drowning in rubbish",
+    "matched_advanced_filename": "WNL Drowning in rubbish",
+    "elementary_similarity": 0.9421567729906575,
+    "advanced_similarity": 0.8556414744372298
+  },
+  {
+    "id": 92,
+    "source_filename": "WNL EU Pollution",
+    "matched_elementary_filename": "WNL EU Pollution",
+    "matched_advanced_filename": "WNL EU Pollution",
+    "elementary_similarity": 0.9410801572766336,
+    "advanced_similarity": 0.8789697069194051
+  },
+  {
+    "id": 93,
+    "source_filename": "WNL Experience",
+    "matched_elementary_filename": "WNL Experience",
+    "matched_advanced_filename": "WNL Experience",
+    "elementary_similarity": 0.9109138593798256,
+    "advanced_similarity": 0.8695771276953498
+  },
+  {
+    "id": 94,
+    "source_filename": "WNL Extinction",
+    "matched_elementary_filename": "WNL Extinction",
+    "matched_advanced_filename": "WNL Extinction",
+    "elementary_similarity": 0.9370862829257915,
+    "advanced_similarity": 0.8403822562973327
+  },
+  {
+    "id": 95,
+    "source_filename": "WNL Extreme heat",
+    "matched_elementary_filename": "WNL Extreme heat",
+    "matched_advanced_filename": "WNL Extreme heat",
+    "elementary_similarity": 0.9594900096535569,
+    "advanced_similarity": 0.813033359244963
+  },
+  {
+    "id": 96,
+    "source_filename": "WNL FIFA",
+    "matched_elementary_filename": "WNL FIFA",
+    "matched_advanced_filename": "WNL FIFA",
+    "elementary_similarity": 0.9415410345244055,
+    "advanced_similarity": 0.8415001313954568
+  },
+  {
+    "id": 97,
+    "source_filename": "WNL Fifth of young adults",
+    "matched_elementary_filename": "WNL Vienna",
+    "matched_advanced_filename": "WNL Fifth of young adults",
+    "elementary_similarity": 0.5932231745313445,
+    "advanced_similarity": 0.6169399136437426
+  },
+  {
+    "id": 98,
+    "source_filename": "WNL First female coach",
+    "matched_elementary_filename": "WNL First female coach",
+    "matched_advanced_filename": "WNL First female coach",
+    "elementary_similarity": 0.9532792678082658,
+    "advanced_similarity": 0.8642620829275598
+  },
+  {
+    "id": 99,
+    "source_filename": "WNL First high resolution images",
+    "matched_elementary_filename": "WNL First high resolution images",
+    "matched_advanced_filename": "WNL First high resolution images",
+    "elementary_similarity": 0.9709055041103498,
+    "advanced_similarity": 0.9120987492661635
+  },
+  {
+    "id": 100,
+    "source_filename": "WNL Five jobs",
+    "matched_elementary_filename": "WNL Five jobs",
+    "matched_advanced_filename": "WNL Five jobs",
+    "elementary_similarity": 0.92751342156862,
+    "advanced_similarity": 0.7992801460831466
+  },
+  {
+    "id": 101,
+    "source_filename": "WNL Four new elements",
+    "matched_elementary_filename": "WNL Four new elements",
+    "matched_advanced_filename": "WNL Four new elements",
+    "elementary_similarity": 0.9387191672753474,
+    "advanced_similarity": 0.8473946454663253
+  },
+  {
+    "id": 102,
+    "source_filename": "WNL Glastonbury",
+    "matched_elementary_filename": "WNL Glastonbury",
+    "matched_advanced_filename": "WNL Glastonbury",
+    "elementary_similarity": 0.9407406525092468,
+    "advanced_similarity": 0.8735381790704798
+  },
+  {
+    "id": 103,
+    "source_filename": "WNL Goodbye fish and chips",
+    "matched_elementary_filename": "WNL Goodbye fish and chips",
+    "matched_advanced_filename": "WNL Goodbye fish and chips",
+    "elementary_similarity": 0.9358102805336155,
+    "advanced_similarity": 0.8382114259829564
+  },
+  {
+    "id": 104,
+    "source_filename": "WNL Google boss",
+    "matched_elementary_filename": "WNL Google boss",
+    "matched_advanced_filename": "WNL Google boss",
+    "elementary_similarity": 0.9315654849538644,
+    "advanced_similarity": 0.8483594240354569
+  },
+  {
+    "id": 105,
+    "source_filename": "WNL Google car",
+    "matched_elementary_filename": "WNL Google car",
+    "matched_advanced_filename": "WNL Google car",
+    "elementary_similarity": 0.9244717165609397,
+    "advanced_similarity": 0.8523700606414604
+  },
+  {
+    "id": 106,
+    "source_filename": "WNL How downtown Abbey",
+    "matched_elementary_filename": "WNL How downtown Abbey",
+    "matched_advanced_filename": "WNL How downtown Abbey",
+    "elementary_similarity": 0.9778710007160799,
+    "advanced_similarity": 0.8791446555198746
+  },
+  {
+    "id": 107,
+    "source_filename": "WNL I confused my numbers",
+    "matched_elementary_filename": "WNL I confused my numbers",
+    "matched_advanced_filename": "WNL I confused my numbers",
+    "elementary_similarity": 0.9226842443471903,
+    "advanced_similarity": 0.857593617953459
+  },
+  {
+    "id": 108,
+    "source_filename": "WNL Icebucket challenge",
+    "matched_elementary_filename": "WNL Icebucket challenge",
+    "matched_advanced_filename": "WNL Icebucket challenge",
+    "elementary_similarity": 0.9263912967985656,
+    "advanced_similarity": 0.7378232412914889
+  },
+  {
+    "id": 109,
+    "source_filename": "WNL Icelandic names",
+    "matched_elementary_filename": "WNL Canadian Pair",
+    "matched_advanced_filename": "Life expectancy",
+    "elementary_similarity": 0.49922323370771515,
+    "advanced_similarity": 0.4883478505670839
+  },
+  {
+    "id": 110,
+    "source_filename": "WNL In flight",
+    "matched_elementary_filename": "WNL In flight",
+    "matched_advanced_filename": "WNL In flight",
+    "elementary_similarity": 0.9559670852955059,
+    "advanced_similarity": 0.9195327335743142
+  },
+  {
+    "id": 111,
+    "source_filename": "WNL India's rich",
+    "matched_elementary_filename": "WNL India's rich",
+    "matched_advanced_filename": "WNL India's rich",
+    "elementary_similarity": 0.935200010974854,
+    "advanced_similarity": 0.8134294448872139
+  },
+  {
+    "id": 112,
+    "source_filename": "WNL Inky the octopus",
+    "matched_elementary_filename": "WNL Castaway",
+    "matched_advanced_filename": "WNL Experience",
+    "elementary_similarity": 0.7089601556479076,
+    "advanced_similarity": 0.6849938646389085
+  },
+  {
+    "id": 113,
+    "source_filename": "WNL Inventions",
+    "matched_elementary_filename": "WNL Inventions",
+    "matched_advanced_filename": "WNL Inventions",
+    "elementary_similarity": 0.9496725573380679,
+    "advanced_similarity": 0.8695223131653275
+  },
+  {
+    "id": 114,
+    "source_filename": "WNL Japan",
+    "matched_elementary_filename": "WNL Japan",
+    "matched_advanced_filename": "WNL Japan",
+    "elementary_similarity": 0.9490031939759989,
+    "advanced_similarity": 0.8929314530781436
+  },
+  {
+    "id": 115,
+    "source_filename": "WNL JMW Turner",
+    "matched_elementary_filename": "WNL JMW Turner",
+    "matched_advanced_filename": "WNL JMW Turner",
+    "elementary_similarity": 0.9328207731411382,
+    "advanced_similarity": 0.8673019552528913
+  },
+  {
+    "id": 116,
+    "source_filename": "WNL John Lewis",
+    "matched_elementary_filename": "WNL Coloring Books",
+    "matched_advanced_filename": "WNL John Lewis",
+    "elementary_similarity": 0.49318551241261555,
+    "advanced_similarity": 0.5391910478264734
+  },
+  {
+    "id": 117,
+    "source_filename": "WNL Kate Bush",
+    "matched_elementary_filename": "WNL Kate Bush",
+    "matched_advanced_filename": "WNL Kate Bush",
+    "elementary_similarity": 0.9287926345244475,
+    "advanced_similarity": 0.8531012352544263
+  },
+  {
+    "id": 118,
+    "source_filename": "WNL Kiruna",
+    "matched_elementary_filename": "WNL Kiruna",
+    "matched_advanced_filename": "WNL Kiruna",
+    "elementary_similarity": 0.8793061050530293,
+    "advanced_similarity": 0.8666928024370103
+  },
+  {
+    "id": 119,
+    "source_filename": "WNL Lego movie",
+    "matched_elementary_filename": "WNL Lego movie",
+    "matched_advanced_filename": "WNL Lego movie",
+    "elementary_similarity": 0.9605551144913866,
+    "advanced_similarity": 0.8921399315052958
+  },
+  {
+    "id": 120,
+    "source_filename": "WNL Loneliness",
+    "matched_elementary_filename": "Life expectancy",
+    "matched_advanced_filename": "Life expectancy",
+    "elementary_similarity": 0.6817320070057435,
+    "advanced_similarity": 0.6807384194891065
+  },
+  {
+    "id": 121,
+    "source_filename": "WNL Love hormonw",
+    "matched_elementary_filename": "WNL Love hormonw",
+    "matched_advanced_filename": "WNL Love hormonw",
+    "elementary_similarity": 0.9345139919824577,
+    "advanced_similarity": 0.8915482550317246
+  },
+  {
+    "id": 122,
+    "source_filename": "WNL Making a killing",
+    "matched_elementary_filename": "WNL Making a killing",
+    "matched_advanced_filename": "WNL Making a killing",
+    "elementary_similarity": 0.9805465326104572,
+    "advanced_similarity": 0.8330829919716608
+  },
+  {
+    "id": 123,
+    "source_filename": "WNL Man falls",
+    "matched_elementary_filename": "WNL Man falls",
+    "matched_advanced_filename": "WNL Man falls",
+    "elementary_similarity": 0.9482139762763604,
+    "advanced_similarity": 0.8890397759093105
+  },
+  {
+    "id": 124,
+    "source_filename": "WNL Mars",
+    "matched_elementary_filename": "Life on Mars",
+    "matched_advanced_filename": "Life on Mars",
+    "elementary_similarity": 0.7525001333882798,
+    "advanced_similarity": 0.6115563651627254
+  },
+  {
+    "id": 125,
+    "source_filename": "WNL Men in black",
+    "matched_elementary_filename": "WNL Men in black",
+    "matched_advanced_filename": "WNL Men in black",
+    "elementary_similarity": 0.9250812356456167,
+    "advanced_similarity": 0.8224987603614087
+  },
+  {
+    "id": 126,
+    "source_filename": "WNL Mirrors",
+    "matched_elementary_filename": "WNL Mirrors",
+    "matched_advanced_filename": "WNL Mirrors",
+    "elementary_similarity": 0.9457026766989932,
+    "advanced_similarity": 0.8666765752032414
+  },
+  {
+    "id": 127,
+    "source_filename": "WNL Morocco",
+    "matched_elementary_filename": "WNL Morocco",
+    "matched_advanced_filename": "WNL Morocco",
+    "elementary_similarity": 0.9415196283268674,
+    "advanced_similarity": 0.8186426218514357
+  },
+  {
+    "id": 128,
+    "source_filename": "WNL Music",
+    "matched_elementary_filename": "WNL Music",
+    "matched_advanced_filename": "WNL Music",
+    "elementary_similarity": 0.9278314270144655,
+    "advanced_similarity": 0.8806088468024604
+  },
+  {
+    "id": 129,
+    "source_filename": "WNL Mystery Shopper",
+    "matched_elementary_filename": "WNL Mystery Shopper",
+    "matched_advanced_filename": "WNL Mystery Shopper",
+    "elementary_similarity": 0.9010500667480548,
+    "advanced_similarity": 0.8501666422084719
+  },
+  {
+    "id": 130,
+    "source_filename": "WNL NASA Astronaut",
+    "matched_elementary_filename": "WNL NASA Astronaut",
+    "matched_advanced_filename": "WNL NASA Astronaut",
+    "elementary_similarity": 0.9523082912219135,
+    "advanced_similarity": 0.900594770196602
+  },
+  {
+    "id": 131,
+    "source_filename": "WNL Neuroscientists",
+    "matched_elementary_filename": "WNL Neuroscientists",
+    "matched_advanced_filename": "WNL Neuroscientists",
+    "elementary_similarity": 0.9237486112608997,
+    "advanced_similarity": 0.8112917484337714
+  },
+  {
+    "id": 132,
+    "source_filename": "WNL New Orleans",
+    "matched_elementary_filename": "WNL New Orleans",
+    "matched_advanced_filename": "WNL New Orleans",
+    "elementary_similarity": 0.9400260749239591,
+    "advanced_similarity": 0.8567851445525068
+  },
+  {
+    "id": 133,
+    "source_filename": "WNL Nigerian low tech",
+    "matched_elementary_filename": "WNL Nigerian low tech",
+    "matched_advanced_filename": "WNL Nigerian low tech",
+    "elementary_similarity": 0.6337187166596466,
+    "advanced_similarity": 0.6026002247852298
+  },
+  {
+    "id": 134,
+    "source_filename": "WNL Noise pollution ",
+    "matched_elementary_filename": "WNL Icebucket challenge",
+    "matched_advanced_filename": "WNL SeaWorld",
+    "elementary_similarity": 0.5665156188451599,
+    "advanced_similarity": 0.5607430325357299
+  },
+  {
+    "id": 135,
+    "source_filename": "WNL Novel way",
+    "matched_elementary_filename": "WNL Novel way",
+    "matched_advanced_filename": "WNL Novel way",
+    "elementary_similarity": 0.9279653611153458,
+    "advanced_similarity": 0.8544982292621977
+  },
+  {
+    "id": 136,
+    "source_filename": "WNL On the trail",
+    "matched_elementary_filename": "WNL On the trail",
+    "matched_advanced_filename": "WNL On the trail",
+    "elementary_similarity": 0.9379864342473665,
+    "advanced_similarity": 0.9083351761243673
+  },
+  {
+    "id": 137,
+    "source_filename": "WNL Organic Food",
+    "matched_elementary_filename": "WNL Organic Food",
+    "matched_advanced_filename": "WNL Organic Food",
+    "elementary_similarity": 0.9480882320845141,
+    "advanced_similarity": 0.9060640073845846
+  },
+  {
+    "id": 138,
+    "source_filename": "WNL Pacific Islanders",
+    "matched_elementary_filename": "WNL shark",
+    "matched_advanced_filename": "Spain",
+    "elementary_similarity": 0.5504754115413207,
+    "advanced_similarity": 0.580539941588996
+  },
+  {
+    "id": 139,
+    "source_filename": "WNL Pizza chain",
+    "matched_elementary_filename": "WNL Pizza chain",
+    "matched_advanced_filename": "WNL Pizza chain",
+    "elementary_similarity": 0.9041023122080948,
+    "advanced_similarity": 0.8437848666867065
+  },
+  {
+    "id": 140,
+    "source_filename": "WNL Planet",
+    "matched_elementary_filename": "WNL Planet",
+    "matched_advanced_filename": "WNL Planet",
+    "elementary_similarity": 0.9760967476944848,
+    "advanced_similarity": 0.942754707425818
+  },
+  {
+    "id": 141,
+    "source_filename": "WNL Poverty",
+    "matched_elementary_filename": "WNL Poverty",
+    "matched_advanced_filename": "WNL Poverty",
+    "elementary_similarity": 0.9301739299995018,
+    "advanced_similarity": 0.8703383572749431
+  },
+  {
+    "id": 142,
+    "source_filename": "WNL Revolution",
+    "matched_elementary_filename": "WNL Revolution",
+    "matched_advanced_filename": "WNL Revolution",
+    "elementary_similarity": 0.9428697553209414,
+    "advanced_similarity": 0.8861085346935607
+  },
+  {
+    "id": 143,
+    "source_filename": "WNL Rwanda",
+    "matched_elementary_filename": "WNL Rwanda",
+    "matched_advanced_filename": "WNL Rwanda",
+    "elementary_similarity": 0.9417446250597068,
+    "advanced_similarity": 0.9232656653091289
+  },
+  {
+    "id": 144,
+    "source_filename": "WNL Satnav",
+    "matched_elementary_filename": "WNL Satnav",
+    "matched_advanced_filename": "WNL Satnav",
+    "elementary_similarity": 0.9325509903667534,
+    "advanced_similarity": 0.8304226264500955
+  },
+  {
+    "id": 145,
+    "source_filename": "WNL Scarlett",
+    "matched_elementary_filename": "WNL Scarlett",
+    "matched_advanced_filename": "WNL Scarlett",
+    "elementary_similarity": 0.9138519154534954,
+    "advanced_similarity": 0.83825097920038
+  },
+  {
+    "id": 146,
+    "source_filename": "WNL School Sports",
+    "matched_elementary_filename": "WNL School Sports",
+    "matched_advanced_filename": "WNL School Sports",
+    "elementary_similarity": 0.9439808565211363,
+    "advanced_similarity": 0.9264683883299327
+  },
+  {
+    "id": 147,
+    "source_filename": "WNL School",
+    "matched_elementary_filename": "WNL School",
+    "matched_advanced_filename": "WNL School",
+    "elementary_similarity": 0.9021952884412267,
+    "advanced_similarity": 0.8898927233839075
+  },
+  {
+    "id": 148,
+    "source_filename": "WNL Scientist",
+    "matched_elementary_filename": "WNL Scientist",
+    "matched_advanced_filename": "WNL Scientist",
+    "elementary_similarity": 0.9493159523818793,
+    "advanced_similarity": 0.796978526503794
+  },
+  {
+    "id": 149,
+    "source_filename": "WNL Scottish referendum",
+    "matched_elementary_filename": "WNL Scottish referendum",
+    "matched_advanced_filename": "WNL Scottish referendum",
+    "elementary_similarity": 0.9372863998001052,
+    "advanced_similarity": 0.872584399495814
+  },
+  {
+    "id": 150,
+    "source_filename": "WNL SeaWorld",
+    "matched_elementary_filename": "WNL SeaWorld",
+    "matched_advanced_filename": "WNL SeaWorld",
+    "elementary_similarity": 0.9597863615549213,
+    "advanced_similarity": 0.9123898786754364
+  },
+  {
+    "id": 151,
+    "source_filename": "WNL Shakespeare",
+    "matched_elementary_filename": "Loterry",
+    "matched_advanced_filename": "Richard III",
+    "elementary_similarity": 0.4465219155629155,
+    "advanced_similarity": 0.4233517124143831
+  },
+  {
+    "id": 152,
+    "source_filename": "WNL shark",
+    "matched_elementary_filename": "WNL shark",
+    "matched_advanced_filename": "WNL shark",
+    "elementary_similarity": 0.9303377826135838,
+    "advanced_similarity": 0.8907456366047811
+  },
+  {
+    "id": 153,
+    "source_filename": "WNL Ships noise",
+    "matched_elementary_filename": "WNL SeaWorld",
+    "matched_advanced_filename": "WNL SeaWorld",
+    "elementary_similarity": 0.692773018839427,
+    "advanced_similarity": 0.6766744321047771
+  },
+  {
+    "id": 154,
+    "source_filename": "WNL Shocking",
+    "matched_elementary_filename": "WNL Shocking",
+    "matched_advanced_filename": "WNL Shocking",
+    "elementary_similarity": 0.5801504008366896,
+    "advanced_similarity": 0.5348299969779955
+  },
+  {
+    "id": 155,
+    "source_filename": "WNL Shops",
+    "matched_elementary_filename": "WNL Shops",
+    "matched_advanced_filename": "WNL Shops",
+    "elementary_similarity": 0.9256466465788784,
+    "advanced_similarity": 0.8772423185244476
+  },
+  {
+    "id": 156,
+    "source_filename": "WNL six well paid jobs",
+    "matched_elementary_filename": "WNL six well paid jobs",
+    "matched_advanced_filename": "WNL six well paid jobs",
+    "elementary_similarity": 0.9036161217206097,
+    "advanced_similarity": 0.871368548476991
+  },
+  {
+    "id": 157,
+    "source_filename": "WNL Six year olds",
+    "matched_elementary_filename": "WNL The millenials",
+    "matched_advanced_filename": "WNL Tributes",
+    "elementary_similarity": 0.7190294226770072,
+    "advanced_similarity": 0.6721900100467617
+  },
+  {
+    "id": 158,
+    "source_filename": "WNL Spain Robin Hood",
+    "matched_elementary_filename": "WNL Spain Robin Hood",
+    "matched_advanced_filename": "WNL Spain Robin Hood",
+    "elementary_similarity": 0.9216096514743575,
+    "advanced_similarity": 0.8766070545692322
+  },
+  {
+    "id": 159,
+    "source_filename": "WNL Spain Wetlands",
+    "matched_elementary_filename": "WNL Spain Wetlands",
+    "matched_advanced_filename": "WNL Spain Wetlands",
+    "elementary_similarity": 0.9178724674498053,
+    "advanced_similarity": 0.8431130799396942
+  },
+  {
+    "id": 160,
+    "source_filename": "WNL Star Wars",
+    "matched_elementary_filename": "WNL Making a killing",
+    "matched_advanced_filename": "Japan",
+    "elementary_similarity": 0.5531252234819896,
+    "advanced_similarity": 0.5085546846503448
+  },
+  {
+    "id": 161,
+    "source_filename": "WNL Still no flying cars",
+    "matched_elementary_filename": "WNL Still no flying cars",
+    "matched_advanced_filename": "WNL Still no flying cars",
+    "elementary_similarity": 0.9358317612174858,
+    "advanced_similarity": 0.8146343395054376
+  },
+  {
+    "id": 162,
+    "source_filename": "WNL Swarthy caveman",
+    "matched_elementary_filename": "WNL Swarthy caveman",
+    "matched_advanced_filename": "WNL Swarthy caveman",
+    "elementary_similarity": 0.9606551660848744,
+    "advanced_similarity": 0.8387761807434804
+  },
+  {
+    "id": 163,
+    "source_filename": "WNL Switched Babies",
+    "matched_elementary_filename": "Kenya",
+    "matched_advanced_filename": "Kenya",
+    "elementary_similarity": 0.5964320828997961,
+    "advanced_similarity": 0.5799712279395135
+  },
+  {
+    "id": 164,
+    "source_filename": "WNL Ten ideas",
+    "matched_elementary_filename": "WNL Still no flying cars",
+    "matched_advanced_filename": "WNL Ten ideas",
+    "elementary_similarity": 0.6438247446146391,
+    "advanced_similarity": 0.6409667764996709
+  },
+  {
+    "id": 165,
+    "source_filename": "WNL The age of music",
+    "matched_elementary_filename": "WNL The age of music",
+    "matched_advanced_filename": "WNL The age of music",
+    "elementary_similarity": 0.9552497687063226,
+    "advanced_similarity": 0.8180287573366507
+  },
+  {
+    "id": 166,
+    "source_filename": "WNL The Greek island",
+    "matched_elementary_filename": "WNL The Greek island",
+    "matched_advanced_filename": "WNL The Greek island",
+    "elementary_similarity": 0.9225690314872866,
+    "advanced_similarity": 0.852862896945187
+  },
+  {
+    "id": 167,
+    "source_filename": "WNL The last",
+    "matched_elementary_filename": "WNL The last",
+    "matched_advanced_filename": "WNL The last",
+    "elementary_similarity": 0.9598617103490237,
+    "advanced_similarity": 0.9258077365232951
+  },
+  {
+    "id": 168,
+    "source_filename": "WNL The lightweight",
+    "matched_elementary_filename": "WNL SeaWorld",
+    "matched_advanced_filename": "WNL SeaWorld",
+    "elementary_similarity": 0.5762638674412752,
+    "advanced_similarity": 0.5610176276753542
+  },
+  {
+    "id": 169,
+    "source_filename": "WNL The millenials",
+    "matched_elementary_filename": "WNL The millenials",
+    "matched_advanced_filename": "WNL Tributes",
+    "elementary_similarity": 0.9727973791943288,
+    "advanced_similarity": 0.8644189228048738
+  },
+  {
+    "id": 170,
+    "source_filename": "WNL Tributes",
+    "matched_elementary_filename": "WNL The millenials",
+    "matched_advanced_filename": "WNL Tributes",
+    "elementary_similarity": 0.9673869679055866,
+    "advanced_similarity": 0.8642410028078331
+  },
+  {
+    "id": 171,
+    "source_filename": "WNL Use of e-cig",
+    "matched_elementary_filename": "WNL Use of e-cig",
+    "matched_advanced_filename": "WNL Use of e-cig",
+    "elementary_similarity": 0.9498511851933451,
+    "advanced_similarity": 0.8593853112184754
+  },
+  {
+    "id": 172,
+    "source_filename": "WNL Vienna",
+    "matched_elementary_filename": "WNL Vienna",
+    "matched_advanced_filename": "WNL Vienna",
+    "elementary_similarity": 0.9376819884619052,
+    "advanced_similarity": 0.8917113678935761
+  },
+  {
+    "id": 173,
+    "source_filename": "WNL Waiters",
+    "matched_elementary_filename": "WNL Waiters",
+    "matched_advanced_filename": "WNL Waiters",
+    "elementary_similarity": 0.9075580024768102,
+    "advanced_similarity": 0.8368795507922528
+  },
+  {
+    "id": 174,
+    "source_filename": "WNL Ways Facebook changed",
+    "matched_elementary_filename": "WNL Ways Facebook changed",
+    "matched_advanced_filename": "WNL Ways Facebook changed",
+    "elementary_similarity": 0.9564499359905916,
+    "advanced_similarity": 0.8807173137731881
+  },
+  {
+    "id": 175,
+    "source_filename": "WNL We must",
+    "matched_elementary_filename": "WNL We must",
+    "matched_advanced_filename": "WNL We must",
+    "elementary_similarity": 0.9130365929513982,
+    "advanced_similarity": 0.8231337624461983
+  },
+  {
+    "id": 176,
+    "source_filename": "WNL Wealth therapy",
+    "matched_elementary_filename": "WNL Wealth therapy",
+    "matched_advanced_filename": "WNL Wealth therapy",
+    "elementary_similarity": 0.9322523143500866,
+    "advanced_similarity": 0.8135929422025687
+  },
+  {
+    "id": 177,
+    "source_filename": "WNL What does Apple",
+    "matched_elementary_filename": "WNL What does Apple",
+    "matched_advanced_filename": "WNL What does Apple",
+    "elementary_similarity": 0.9352952657108133,
+    "advanced_similarity": 0.8935516844154081
+  },
+  {
+    "id": 178,
+    "source_filename": "WNL What is world's",
+    "matched_elementary_filename": "WNL What is world's",
+    "matched_advanced_filename": "WNL What is world's",
+    "elementary_similarity": 0.9466359024396288,
+    "advanced_similarity": 0.7011060552932828
+  },
+  {
+    "id": 179,
+    "source_filename": "WNL What's the secret",
+    "matched_elementary_filename": "WNL What's the secret",
+    "matched_advanced_filename": "WNL What's the secret",
+    "elementary_similarity": 0.9359719649078418,
+    "advanced_similarity": 0.8532246228828532
+  },
+  {
+    "id": 180,
+    "source_filename": "WNL Who can stop Trump",
+    "matched_elementary_filename": "WNL Who can stop Trump",
+    "matched_advanced_filename": "WNL Who can stop Trump",
+    "elementary_similarity": 0.9265096089658815,
+    "advanced_similarity": 0.8113682126498731
+  },
+  {
+    "id": 181,
+    "source_filename": "WNL Who invented",
+    "matched_elementary_filename": "WNL Who invented",
+    "matched_advanced_filename": "WNL Who invented",
+    "elementary_similarity": 0.9428820128700393,
+    "advanced_similarity": 0.7820726207217896
+  },
+  {
+    "id": 182,
+    "source_filename": "WNL Why are people so wrong",
+    "matched_elementary_filename": "WNL Why are people so wrong",
+    "matched_advanced_filename": "WNL Why are people so wrong",
+    "elementary_similarity": 0.923729876237263,
+    "advanced_similarity": 0.8825084297772319
+  },
+  {
+    "id": 183,
+    "source_filename": "WNL Why we should ",
+    "matched_elementary_filename": "WNL Why we should ",
+    "matched_advanced_filename": "WNL Why we should ",
+    "elementary_similarity": 0.9783545824632065,
+    "advanced_similarity": 0.8739128504869775
+  },
+  {
+    "id": 184,
+    "source_filename": "WNL Why you should start work at 10",
+    "matched_elementary_filename": "WNL Why you should start work at 10",
+    "matched_advanced_filename": "WNL Why you should start work at 10",
+    "elementary_similarity": 0.9410998320266231,
+    "advanced_similarity": 0.8948332753887289
+  },
+  {
+    "id": 185,
+    "source_filename": "WNL Will drones",
+    "matched_elementary_filename": "Blackberry",
+    "matched_advanced_filename": "WNL Will drones",
+    "elementary_similarity": 0.6025215368856858,
+    "advanced_similarity": 0.5515377971381994
+  },
+  {
+    "id": 186,
+    "source_filename": "WNL Winter",
+    "matched_elementary_filename": "WNL Winter",
+    "matched_advanced_filename": "WNL Winter",
+    "elementary_similarity": 0.9321960865961898,
+    "advanced_similarity": 0.8589025527596024
+  },
+  {
+    "id": 187,
+    "source_filename": "WNL World Cup",
+    "matched_elementary_filename": "WNL World Cup",
+    "matched_advanced_filename": "WNL World Cup",
+    "elementary_similarity": 0.9363299979034054,
+    "advanced_similarity": 0.8332423205397386
+  },
+  {
+    "id": 188,
+    "source_filename": "WNL Young Americans",
+    "matched_elementary_filename": "Japan menu",
+    "matched_advanced_filename": "WNL Young Americans",
+    "elementary_similarity": 0.6389651224998354,
+    "advanced_similarity": 0.602705464368809
+  },
+  {
+    "id": 189,
+    "source_filename": "Zero Hours",
+    "matched_elementary_filename": "Zero Hours",
+    "matched_advanced_filename": "Zero Hours",
+    "elementary_similarity": 0.9395313292886083,
+    "advanced_similarity": 0.8432476596421984
+  }
+]
